@@ -16,8 +16,7 @@ body{
 }
 
 .navbar-toggle {
-    position: absolute;
-    float: none;
+    position: relative;
     right: 0;
     bottom: 0;
     padding: 9px 10px;
